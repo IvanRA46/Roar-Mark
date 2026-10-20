@@ -46,7 +46,7 @@ export default function HomePage() {
           <p className="home-hero__eyebrow">ROARMARK</p>
           <h1>Confianza, organización y alcance comercial.</h1>
           <p className="home-hero__lead">
-            Soluciones integrales para abastecimiento y distribución con atención cercana, operación eficiente y visión de crecimiento.
+            Comercio al por mayor calidad y servicio, especialistas en comodities.
           </p>
 
           <div className="home-hero__actions">
